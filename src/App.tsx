@@ -1,11 +1,13 @@
 import React from 'react';
-import GlobalStyled from './styles/global';
-function App() {
+import GlobalStyled, { Container } from './styles/global';
+import ExperienceBar from './components/ExperienceBar';
+
+const App: React.FC = () => {
   return (
-    <>
+    <Container>
       <GlobalStyled />
-      <div>Hello</div>
-    </>
+      <ExperienceBar />
+    </Container>
   );
 }
 
