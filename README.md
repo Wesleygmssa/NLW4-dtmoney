@@ -1,6 +1,6 @@
 <h3 align="center">
   NLW4: Rumo ao Próximo nivel.
-  em contrução
+  em construção
 </h3>
 
 
